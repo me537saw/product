@@ -124,23 +124,25 @@ Through which humidity range might the product be stored?
 
 ## INDUSTRIAL DESIGN
 
-| Brand | What should your product communicate about your company values?|
-| Renderings | Place images of your product here|
-Color, Material, and Finish (CMF)
-Which colors and textures will be used?
-Logo size and placement
-Where will the logo be placed?
-Connectors 
-(Power, USB, Lighting, Audio)
+### Brand
+   What should your product communicate about your company values?|
+### Renderings
+   Place images of your product here|
+### Color, Material, and Finish (CMF)
+   Which colors and textures will be used?
+### Logo size and placement
+   Where will the logo be placed?
+### Connectors (Power, USB, Lighting, Audio)
 Which connectors, if any, does your product need?
-Visual Interface 
+
+### Visual Interface 
 (Screen size and type, LEDs)
 What will the product display, visually?
-Touch Interface 
+### Touch Interface 
 (Mechanical actuators/switches, touch sensitivity, haptics)
 How will people interact with their sense of touch?
-Audio Interface 
-(Microphones, speakers)
+
+### Audio Interface (Microphones, speakers)
 Which audio inputs and outputs?
 
 
