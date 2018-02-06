@@ -54,12 +54,14 @@ Ecosystem, etc.
    Initial compatibility would be limited.  If product ecosystem is expanded down the road, it could potentially include other camping items that would fit together.
 
 ### Stakeholders
- * Target User
-
-   Who will use your product?  The primary target market would be the avid outdoors consumer.  We are positioning this product to target people who hike and camp overnight often and would require a portable box saw needed when gathering firewood.  Other potential users could be outdoors construction and service people who would require a compact saw tool for unexpected needs or obstacles.
+ * Target User: Who will use your product?  
+   
+   The primary target market would be the avid outdoors consumer.  We are positioning this product to target people who hike and camp overnight often and would require a portable box saw needed when gathering firewood.  Other potential users could be outdoors construction and service people who would require a compact saw tool for unexpected needs or obstacles.
+   
  * Target Purchaser (if different from user)
 
    The consumer directly would primarily be purchasing this on their own behalf.
+   
  * Other Stakeholders
 
    Who else should be considered? The main stakeholder is the consumer.  The method of distribution would also dictate stakeholders.  Initial thoughts would be to distribute through sporting goods and outdoors stores (think REI and Patagonia).  Hardware stores could also be considered as well.
