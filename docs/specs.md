@@ -216,10 +216,16 @@ Should it be plugged into an outlet or powered with disposable or rechargeable b
 
 ## SERVICEABILITY
 
-| &nbsp; | &nbsp;
-|---|---|
-| Repair Services | Will you repair or replace defective, broken, or unwanted products? |
-|Returns Process  | How would the customer return a product?                            |
+<table>
+   <tr>
+      <td>Repair Services</td>
+      <td>Will you repair or replace defective, broken, or unwanted products?
+    
+   <tr>
+      <td>Returns Process</td>
+   <td>How would the customer return a product?</td>
+   </tr>
+   </table>|
 
  * Repair/Return Qualifications/Tolerances
  
@@ -228,19 +234,6 @@ Should it be plugged into an outlet or powered with disposable or rechargeable b
  * Customer Support System
  
    How will customers contact your company?
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
