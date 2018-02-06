@@ -21,9 +21,9 @@ layout: default
 
 [Environment](#environment)
 
-[Indutrial Design](#industrial design)
+[Industrial Design](#industrial-design)
 
-[Software Architecture](#software)
+[Software Architecture](#software-architecture)
 
 [Electrical Hardware](#electrical-hardware)
 
@@ -170,14 +170,14 @@ Which audio inputs and outputs?
 
 
 
-## SOFTWARE ARCHITECTURE AND DATA PROCESSING
+## SOFTWARE ARCHITECTURE
 
 
-Block Diagram of Data Flow
-Paste an image here showing how will data be collected, transferred, processed, and shared.
+ * Block Diagram of Data Flow
+ * Paste an image here showing how will data be collected, transferred, processed, and shared.
 
 
-ELECTRICAL HARDWARE AND SENSORS
+## ELECTRICAL HARDWARE AND SENSORS
 
 Block Diagram of Electrical Hardware
 Paste an image here showing which hardware (e.g., sensors, screens, buttons) will be required and how they will connect.
