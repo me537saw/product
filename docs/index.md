@@ -1,10 +1,12 @@
 ---
-title: This is my title
-layout: post
+title: My page
+layout: default
 ---
 
+# {{ page.title }}
 
-New documentation
+Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
-write some stuff
-
+<!--
+You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
+-->
