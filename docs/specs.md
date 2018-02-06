@@ -19,9 +19,11 @@ layout: default
 ### Product Description
 
 1. Market Need
+
    There are a limited amount of portable traditional bow saws that can be brought in a set of camping gear without requiring a significant amount of space.
 
 2. Key Features/ Functionality
+
    Our product will be able to be assembled and disassembled easily and stored safely in a small amount of space.  This will make it easy and convenient for hikers or backpackers who would use this to cut branches or other pieces of wood for the use in a fire.
 
 3. Other Product Compatibility, 
@@ -31,10 +33,13 @@ Ecosystem, etc.
 
 ### Stakeholders
 1. Target User
+
    Who will use your product?  The primary target market would be the avid outdoors consumer.  We are positioning this product to target people who hike and camp overnight often and would require a portable box saw needed when gathering firewood.  Other potential users could be outdoors construction and service people who would require a compact saw tool for unexpected needs or obstacles.
 2. Target Purchaser (if different from user)
+
    The consumer directly would primarily be purchasing this on their own behalf.
 3. Other Stakeholders
+
    Who else should be considered? The main stakeholder is the consumer.  The method of distribution would also dictate stakeholders.  Initial thoughts would be to distribute through sporting goods and outdoors stores (think REI and Patagonia).  Hardware stores could also be considered as well.
 
 
