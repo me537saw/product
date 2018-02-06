@@ -7,6 +7,14 @@ layout: default
 
 Write some text and stuff
 
++--+--+
+| something |something else  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+
 ## To-Do List:
 - [x] this is a complete item
 - [ ] this is an incomplete item
