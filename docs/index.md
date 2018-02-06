@@ -7,10 +7,12 @@ layout: default
 
 Write some text and stuff
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Bill-of-Materials (BOM)
+
+| Item  | Second Header |
+| ----- | ------------- |
+| 1     | Content Cell  |
+| 2     | Content Cell  |
 
 ## To-Do List:
 - [x] this is a complete item
