@@ -216,17 +216,12 @@ Should it be plugged into an outlet or powered with disposable or rechargeable b
 
 ## SERVICEABILITY
 
-<table>
-   <tr>
-      <td>Repair Services</td>
-      <td>Will you repair or replace defective, broken, or unwanted products?
+ * Repair Services: Will you repair or replace defective, broken, or unwanted products?
     
-   <tr>
-      <td>Returns Process</td>
-   <td>How would the customer return a product?</td>
-   </tr>
-   </table>|
+ * Returns Process
 
+   How would the customer return a product?
+ 
  * Repair/Return Qualifications/Tolerances
  
    What defines a defective or broken product?
