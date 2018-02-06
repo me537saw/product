@@ -3,7 +3,7 @@ title: ME537 Bowsaw Team Project
 layout: default
 ---
 
-# {{ Main Page of Team Project}}
+# {{Main}}
 
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
