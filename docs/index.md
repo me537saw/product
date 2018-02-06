@@ -1,9 +1,9 @@
 ---
-title: My page
+title: ME537 Bowsaw Team Project
 layout: default
 ---
 
-# {{ page.title }}
+# {{ Main Page }}
 
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
