@@ -25,7 +25,7 @@ layout: default
 
 [Software Architecture](#software-architecture)
 
-[Electrical Hardware](#electrical-hardware)
+[Electrical Hardware and Sensors](#electrical-hardware-and-sensors)
 
 [Durability](#durability)
 
