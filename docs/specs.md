@@ -94,13 +94,10 @@ Ecosystem, etc.
 
 * Serial Number: N/A
 
-### Financials
+### Financials and Costing
 * BOM Cost TBD - How much do the components cost to make?
 * COGs: TBD  
-
-### BOM Cost + assembly labor, freight forwarding, logistics, customs, duties, etc.
-
-* Target: $20 
+* BOM Target: $20 
 * MSRP: TBD - $100-$200
 * Acceptable Margin: TBD - How much do you need to earn when selling a unit?
 
