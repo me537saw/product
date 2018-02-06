@@ -51,21 +51,23 @@ Countries of Sale
 In which countries will you sell this version of the product? Primary market to start would be U.S. and Canada.
 Target Launch Date
 TBD - See schedule, plan for Mass Production is XXX year.
-Regulatory Requirements
+### Regulatory Requirements
 Safety (UL, CE)
 TBD - Which safety certifications are required? Metal Blade cert?  
 Emissions (FCC, CE)
 N/A
 Interoperability (Cellular, WiFi)
 N/A
-Labeling
+
+### Labeling
 Regulatory Marks
 TBD - Which are required? Potential MFG certs?
 Country of Origin
 TBD - Where was it assembled? U.S. or China
 Serial Number
 N/A
-Financials
+
+### Financials
 BOM Cost
 TBD - How much do the components cost to make?
 COGs
@@ -78,7 +80,9 @@ MSRP
 TBD - $100-$200
 Acceptable Margin
 TBD - How much do you need to earn when selling a unit?
-Volume
+
+
+### Volume
 MOQ of First Production Run
 TBD - How many do you need to make the first time you run your production line?
 
@@ -98,12 +102,13 @@ TBD - How long before you launch your product’s replacement?
 ## ENVIRONMENT
 
 
-Storage Environment
+### Storage Environment
 Temperature Range
 Through which temperature range might the product be stored?
 Humidity Range
 Through which humidity range might the product be stored?
-Operating Environment
+
+### Operating Environment
 Indoor, Outdoor, Wearable
 Where and how will the product be used?
 Temperature Range
