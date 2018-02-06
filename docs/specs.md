@@ -124,10 +124,8 @@ Through which humidity range might the product be stored?
 
 ## INDUSTRIAL DESIGN
 
-Brand
-What should your product communicate about your company values?
-Renderings
-Place images of your product here.
+| Brand | What should your product communicate about your company values?|
+| Renderings | Place images of your product here|
 Color, Material, and Finish (CMF)
 Which colors and textures will be used?
 Logo size and placement
