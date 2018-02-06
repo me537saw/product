@@ -7,6 +7,11 @@ layout: default
 
 Write some text and stuff
 
+## To-Do List:
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
 <!--
