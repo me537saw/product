@@ -32,13 +32,13 @@ Ecosystem, etc.
    Initial compatibility would be limited.  If product ecosystem is expanded down the road, it could potentially include other camping items that would fit together.
 
 ### Stakeholders
-1. Target User
+ * Target User
 
    Who will use your product?  The primary target market would be the avid outdoors consumer.  We are positioning this product to target people who hike and camp overnight often and would require a portable box saw needed when gathering firewood.  Other potential users could be outdoors construction and service people who would require a compact saw tool for unexpected needs or obstacles.
-2. Target Purchaser (if different from user)
+ * Target Purchaser (if different from user)
 
    The consumer directly would primarily be purchasing this on their own behalf.
-3. Other Stakeholders
+ * Other Stakeholders
 
    Who else should be considered? The main stakeholder is the consumer.  The method of distribution would also dictate stakeholders.  Initial thoughts would be to distribute through sporting goods and outdoors stores (think REI and Patagonia).  Hardware stores could also be considered as well.
 
@@ -47,17 +47,21 @@ Ecosystem, etc.
 
 ## COMMERCIALS AND REGULATORY
 
-Countries of Sale
-In which countries will you sell this version of the product? Primary market to start would be U.S. and Canada.
-Target Launch Date
-TBD - See schedule, plan for Mass Production is XXX year.
+ * Countries of Sale
+   In which countries will you sell this version of the product? Primary market to start would be U.S. and Canada.
+
+ * Target Launch Date
+   TBD - See schedule, plan for Mass Production is XXX year.
+
 ### Regulatory Requirements
-Safety (UL, CE)
-TBD - Which safety certifications are required? Metal Blade cert?  
-Emissions (FCC, CE)
-N/A
-Interoperability (Cellular, WiFi)
-N/A
+ * Safety (UL, CE)
+   TBD - Which safety certifications are required? Metal Blade cert?  
+
+ * Emissions (FCC, CE)
+   N/A
+
+* Interoperability (Cellular, WiFi)
+  N/A
 
 ### Labeling
 Regulatory Marks
