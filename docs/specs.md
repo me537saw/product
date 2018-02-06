@@ -173,12 +173,9 @@ Should it be plugged into an outlet or powered with disposable or rechargeable b
 
 ## DURABILITY
 
-Lifetime requirements
-How long should the product last before it is unusable?
-Cycles of various sub-systems
-How long should specific parts of the product last?
-Chemical resistance (sweat, sebum, sunscreen, salt water)
-Which chemicals should the product resist?
+ * Lifetime requirements: How long should the product last before it is unusable?
+ * Cycles of various sub-systems: How long should specific parts of the product last?
+ * Chemical resistance (sweat, sebum, sunscreen, salt water): Which chemicals should the product resist?
 
  * UV resistance (sunlight)
    
