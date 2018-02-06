@@ -209,15 +209,19 @@ What mechanical abuse should the product withstand?
 ## SERVICEABILITY
 
  * Repair Services
+ 
    Will you repair or replace defective, broken, or unwanted products?
 
  * Returns Process
+ 
    How would the customer return a product?
 
  * Repair/Return Qualifications/Tolerances
+ 
    What defines a defective or broken product?
 
  * Customer Support System
+ 
    How will customers contact your company?
 
 
