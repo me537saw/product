@@ -190,28 +190,35 @@ What mechanical abuse should the product withstand?
 
 ## PACKAGING
 
-In the Box
-What comes in the box? 
-Unboxing Experience
-What should the user experience when unboxing the product?
-Printing, colors, inserts, cardboard type, drop requirements
-Which elements of packaging should be included?
-Retail Requirements
-Will your product be sold in stores? If so, are there size constraints for the shelves or other considerations?
-SKU Combinations
-Are there different options? Try to design for just one when you are starting out.
+ * In the Box
+   What comes in the box? 
+
+ * Unboxing Experience
+   What should the user experience when unboxing the product?
+
+* Printing, colors, inserts, cardboard type, drop requirements
+   Which elements of packaging should be included?
+
+ * Retail Requirements
+   Will your product be sold in stores? If so, are there size constraints for the shelves or other considerations?
+
+ * SKU Combinations
+   Are there different options? Try to design for just one when you are starting out.
 
 
 ## SERVICEABILITY
 
-Repair Services
-Will you repair or replace defective, broken, or unwanted products?
-Returns Process
-How would the customer return a product?
-Repair/Return Qualifications/Tolerances
-What defines a defective or broken product?
-Customer Support System
-How will customers contact your company?
+ * Repair Services
+   Will you repair or replace defective, broken, or unwanted products?
+
+ * Returns Process
+   How would the customer return a product?
+
+ * Repair/Return Qualifications/Tolerances
+   What defines a defective or broken product?
+
+ * Customer Support System
+   How will customers contact your company?
 
 
 
