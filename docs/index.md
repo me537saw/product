@@ -3,8 +3,6 @@ title: ME537 Bowsaw Team Project
 layout: default
 ---
 
-//# {{Main}}
-
 Write some text and stuff
 
 ## Bill-of-Materials (BOM)
