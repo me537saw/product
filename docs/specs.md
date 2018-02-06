@@ -86,40 +86,32 @@ Ecosystem, etc.
   N/A
 
 ### Labeling
-Regulatory Marks
-TBD - Which are required? Potential MFG certs?
-Country of Origin
-TBD - Where was it assembled? U.S. or China
-Serial Number
-N/A
+* Regulatory Marks: TBD - Which are required? Potential MFG certs?
+
+* Country of Origin: TBD - Where was it assembled? U.S. or China
+
+* Serial Number: N/A
 
 ### Financials
-BOM Cost
-TBD - How much do the components cost to make?
-COGs
-TBD - 
+* BOM Cost TBD - How much do the components cost to make?
+* COGs: TBD  
 
-BOM Cost + assembly labor, freight forwarding, logistics, customs, duties, etc.
+### BOM Cost + assembly labor, freight forwarding, logistics, customs, duties, etc.
 
-Target: $20
-MSRP
-TBD - $100-$200
-Acceptable Margin
-TBD - How much do you need to earn when selling a unit?
+* Target: $20 
+* MSRP: TBD - $100-$200
+* Acceptable Margin: TBD - How much do you need to earn when selling a unit?
 
 
 ### Volume
-MOQ of First Production Run
-TBD - How many do you need to make the first time you run your production line?
+* MOQ of First Production Run: TBD - How many do you need to make the first time you run your production line?
+  10,000
 
-10,000
-Annual Volume
-TBD - How many do you expect to sell per year?
+* Annual Volume:  TBD - How many do you expect to sell per year?
+  10,000
 
-10,000
-Timeline for Product Refresh (EOL)
-TBD - How long before you launch your product’s replacement?
-2 Years
+* Timeline for Product Refresh (EOL): TBD - How long before you launch your product’s replacement?
+  2 Years
 
 
 
@@ -128,13 +120,13 @@ TBD - How long before you launch your product’s replacement?
 ## ENVIRONMENT
 
 
-### Storage Environment
+* Storage Environment
 Temperature Range
 Through which temperature range might the product be stored?
 Humidity Range
 Through which humidity range might the product be stored?
 
-### Operating Environment
+* Operating Environment
 Indoor, Outdoor, Wearable
 Where and how will the product be used?
 Temperature Range
@@ -146,26 +138,29 @@ Through which humidity range might the product be stored?
 
 ## INDUSTRIAL DESIGN
 
-### Brand
-   What should your product communicate about your company values?|
-### Renderings
-   Place images of your product here|
-### Color, Material, and Finish (CMF)
+ * Brand
+   What should your product communicate about your company values?
+   
+ * Renderings
+   Place images of your product here
+   
+ * Color, Material, and Finish (CMF)
    Which colors and textures will be used?
-### Logo size and placement
+   
+ * Logo size and placement
    Where will the logo be placed?
-### Connectors (Power, USB, Lighting, Audio)
-Which connectors, if any, does your product need?
+   
+ * Connectors (Power, USB, Lighting, Audio)
+   Which connectors, if any, does your product need?
 
-### Visual Interface 
-(Screen size and type, LEDs)
-What will the product display, visually?
-### Touch Interface 
-(Mechanical actuators/switches, touch sensitivity, haptics)
-How will people interact with their sense of touch?
+ * Visual Interface (Screen size and type, LEDs)
+   What will the product display, visually?
 
-### Audio Interface (Microphones, speakers)
-Which audio inputs and outputs?
+ * Touch Interface (Mechanical actuators/switches, touch sensitivity, haptics)
+   How will people interact with their sense of touch?
+
+ * Audio Interface (Microphones, speakers)
+   Which audio inputs and outputs?
 
 
 
