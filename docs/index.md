@@ -7,13 +7,10 @@ layout: default
 
 Write some text and stuff
 
-+--+--+
-| something |something else  |
-+--+--+
-|  |  |
-+--+--+
-|  |  |
-+--+--+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## To-Do List:
 - [x] this is a complete item
